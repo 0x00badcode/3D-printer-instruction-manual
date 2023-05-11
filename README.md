@@ -6,24 +6,25 @@
 -ABS IS TOXIC WHEN USED IN OPEN PRINTERS, DO NOT USE
 ````
 
-legacy user manual : [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf](https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf)
+legacy user manual: [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf](https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf)
 
 
 ## Table of Contents
 
-- [**Turning The Printer On**](#turning-the-printer-on)
-- [**Turning It Off**](#turning-it-off)
-- [**Changing the Filament**](#changing-the-filament)
-  - [**Getting the Old Filament Out**](#getting-the-old-filament-out)
-  - [**Putting the New Filament In**](#putting-the-new-filament-in)
-- [**Preparing a File for Printing**](#preparing-a-file-for-printing)
-- [**Print**](#print)
-- [**Stopping a Print**](#stopping-a-print)
-- [**Removing an Object from the Magnetic Bed**](#removing-an-object-from-the-magnetic-bed)
-- [**Dealing with Print Issues**](#dealing-with-print-issues)
+- [Turning The Printer On](#turning-the-printer-on)
+- [Turning It Off](#turning-it-off)
+- [Changing the Filament](#changing-the-filament)
+  - [Getting the Old Filament Out](#getting-the-old-filament-out)
+  - [Putting the New Filament In](#putting-the-new-filament-in)
+- [Preparing a File for Printing](#preparing-a-file-for-printing)
+- [Print](#print)
+- [Stopping a Print](#stopping-a-print)
+- [Removing an Object from the Magnetic Bed](#removing-an-object-from-the-magnetic-bed)
+- [Dealing with Print Issues](#dealing-with-print-issues)
 
-
-# **Turning The Printer On** {#turning-the-printer-on}
+  
+  
+# Turning The Printer On
 
 1. Locate the red power button at the back of the printer, next to the power cable.    
 
@@ -35,7 +36,7 @@ legacy user manual : [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manua
 
 It's as easy as that! Now you can proceed with the desired actions on the Artillery X2.
 
-# **Turning It Off** {#turning-it-off}
+# Turning It Off
 
 1. Ensure that any ongoing prints have completed or been canceled before turning off the printer.
  
@@ -46,7 +47,8 @@ It's as easy as that! Now you can proceed with the desired actions on the Artill
 4. Once the printer has completely powered off, you can safely unplug it from the power outlet.
 
 Remember to always power off the printer properly to prevent any potential damage or data loss.
-
+  
+  
 # **Changing the Filament**
 
 To ensure a smooth filament change process, follow these steps:
@@ -171,3 +173,7 @@ In the event of a print failure or error on the Artillery X2, follow these steps
 3. Refer to the "Removing an Object from the Magnetic Bed" section mentioned earlier to safely remove any partially printed or failed object from the magnetic bed.
     - Follow the steps outlined in that section, beginning with grasping the handle in the middle of one of the corners of the magnetic bed.
     - Exercise caution while bending the bed to release the failed print, ensuring not to scrape or damage the bed during the removal process.
+
+
+
+# Test
