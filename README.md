@@ -1,3 +1,4 @@
+https://img.shields.io/badge/Printer_Manual-EPITECH-blue
 # 3D printer instruction manual
 
 
