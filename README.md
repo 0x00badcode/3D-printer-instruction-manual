@@ -23,7 +23,7 @@ legacy user manual : [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manua
 - [**Dealing with Print Issues**](#dealing-with-print-issues)
 
 
-# **Turning The Printer On**
+# **Turning The Printer On** {#turning-the-printer-on}
 
 1. Locate the red power button at the back of the printer, next to the power cable.    
 
@@ -35,7 +35,7 @@ legacy user manual : [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manua
 
 It's as easy as that! Now you can proceed with the desired actions on the Artillery X2.
 
-# **Turning It Off**
+# **Turning It Off** {#turning-it-off}
 
 1. Ensure that any ongoing prints have completed or been canceled before turning off the printer.
  
