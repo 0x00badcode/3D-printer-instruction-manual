@@ -1,16 +1,29 @@
 # 3D printer instruction manual
 
-    
+
 ```diff
 -⚠️ DO NOT USE ABS,USE ONLY PLA ⚠️   
 -ABS IS TOXIC WHEN USED IN OPEN PRINTERS, DO NOT USE
-```
+````
 
 legacy user manual : [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf](https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf)
 
 
+## Table of Contents
 
-# **Turning It On**
+- [**Turning The Printer On**](#turning-the-printer-on)
+- [**Turning It Off**](#turning-it-off)
+- [**Changing the Filament**](#changing-the-filament)
+  - [**Getting the Old Filament Out**](#getting-the-old-filament-out)
+  - [**Putting the New Filament In**](#putting-the-new-filament-in)
+- [**Preparing a File for Printing**](#preparing-a-file-for-printing)
+- [**Print**](#print)
+- [**Stopping a Print**](#stopping-a-print)
+- [**Removing an Object from the Magnetic Bed**](#removing-an-object-from-the-magnetic-bed)
+- [**Dealing with Print Issues**](#dealing-with-print-issues)
+
+
+# **Turning The Printer On**
 
 1. Locate the red power button at the back of the printer, next to the power cable.    
 
