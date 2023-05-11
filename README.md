@@ -22,9 +22,9 @@ legacy user manual: [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual
 - [Stopping a Print](#stopping-a-print)
 - [Removing an Object from the Magnetic Bed](#removing-an-object-from-the-magnetic-bed)
 - [Dealing with Print Issues](#dealing-with-print-issues)
+</br>
+</br>
 
-  
-  
 # Turning The Printer On
 
 1. Locate the red power button at the back of the printer, next to the power cable.    
@@ -36,6 +36,10 @@ legacy user manual: [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual
 4. Once the screen is lit up and the menu is visible, the printer is ready to be used.
 
 It's as easy as that! Now you can proceed with the desired actions on the Artillery X2.
+</br>
+</br>
+</br>
+
 
 # Turning It Off
 
@@ -48,11 +52,15 @@ It's as easy as that! Now you can proceed with the desired actions on the Artill
 4. Once the printer has completely powered off, you can safely unplug it from the power outlet.
 
 Remember to always power off the printer properly to prevent any potential damage or data loss.
-  
-  
+</br>
+</br>
+</br>
+
 # **Changing the Filament**
 
 To ensure a smooth filament change process, follow these steps:
+</br>
+
 
 ## **Getting the Old Filament Out:**
 
@@ -70,6 +78,8 @@ To ensure a smooth filament change process, follow these steps:
 6. Once all the filament is successfully removed, the printer will notify you to proceed to the next step: loading the new filament.
 
 7. If you encounter any issues, feel free to seek assistance from Paul Crinquand or Erwan Molina on campus. They will be happy to help you with the printer setup.
+</br>
+
 
 ## **Putting the New Filament In:**
 
@@ -90,6 +100,10 @@ Before proceeding with the following steps, ensure that the "Getting the Old Fil
 7. If you encounter any problems, don't hesitate to reach out to Paul Crinquand or Erwan Molina on campus for assistance with the printer setup. They will be glad to help you.
 
 Note: Proper filament handling and setup are crucial for successful printing.
+</br>
+</br>
+</br>
+
 
 ## **Preparing a File for Printing**
 
@@ -124,6 +138,10 @@ G1 Z1.0 F3000 ; move z up little to prevent scratching of surface
 7. After positioning the object, access the settings in the top right corner. Configure the infill density (the degree of filling in the piece; lower values result in faster but less sturdy prints, while 20% is suitable for regular pieces), and enable supports if necessary. For further customization, click on "Custom."
 
 8. Click on "Slice" to process the model. The software will provide information about the estimated printing time and filament usage. If you are satisfied with the settings, click "Save to Disk" and save the file in .gcode format. You can save it to your USB drive or use the mounted USB drive on the printer itself.
+</br>
+</br>
+</br>
+
 
 # **Print**
 
@@ -136,6 +154,10 @@ G1 Z1.0 F3000 ; move z up little to prevent scratching of surface
 4. The printing bed and the printer's head will begin to heat up. It is crucial to note that during this process, you should avoid touching either the bed or the head. ⚠️ Do not touch ⚠️.
 
 5. After a short period, the printer will initiate movement and calibration. It is essential to refrain from blocking the printer's movement, touching it, or placing any objects on it.
+</br>
+</br>
+</br>
+
 
 # **Stopping a Print**
 
@@ -146,6 +168,10 @@ G1 Z1.0 F3000 ; move z up little to prevent scratching of surface
 3. Allow the printer to complete its current movements and retract the extruder. Avoid touching or interfering with the printer during this process.
 
 4. Once the printer has finished its movements and is in a safe position, you can carefully remove your print from the print bed.
+</br>
+</br>
+</br>
+
 
 # **Removing an Object from the Magnetic Bed**
 
@@ -162,6 +188,10 @@ G1 Z1.0 F3000 ; move z up little to prevent scratching of surface
 6. Slowly and steadily peel back the magnetic bed to separate it from the printed piece, being careful not to apply excessive force or use sharp objects that could damage the bed.
 
 7. After the object is successfully removed, place the magnetic bed back onto the printer's build plate, ensuring proper alignment and attachment.
+</br>
+</br>
+</br>
+
 
 # **Dealing with Print Issues**
 
@@ -174,7 +204,3 @@ In the event of a print failure or error on the Artillery X2, follow these steps
 3. Refer to the "Removing an Object from the Magnetic Bed" section mentioned earlier to safely remove any partially printed or failed object from the magnetic bed.
     - Follow the steps outlined in that section, beginning with grasping the handle in the middle of one of the corners of the magnetic bed.
     - Exercise caution while bending the bed to release the failed print, ensuring not to scrape or damage the bed during the removal process.
-
-
-
-# Test
