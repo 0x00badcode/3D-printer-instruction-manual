@@ -131,13 +131,19 @@ G92 E0 ; reset extruder
 G1 Z1.0 F3000 ; move z up little to prevent scratching of surface
 ```
 
-5. Go to "File" and select "Open File" to load a 3D file for printing. The supported file formats include STL, OBJ, X3D, 3MF, as well as image formats like BMP, GIF, JPG, and PNG.
+6. download the other file in this repository called [sideswingerX2.curaprofile](sideswingerX2.curaprofile)
 
-6. Once the file is loaded, it will appear in the editor. Use the sidebar options to resize, rotate, and position the object on the printing bed. The editor will indicate if the object is out of bounds.
+7. in the "preference" tab, navigate to the "profile" page and click "import" at the top right corner, select the file you just downloaded
 
-7. After positioning the object, access the settings in the top right corner. Configure the infill density (the degree of filling in the piece; lower values result in faster but less sturdy prints, while 20% is suitable for regular pieces), and enable supports if necessary. For further customization, click on "Custom."
+8. Go to "File" and select "Open File" to load a 3D file for printing. The supported file formats include STL, OBJ, X3D, 3MF, as well as image formats like BMP, GIF, JPG, and PNG.
 
-8. Click on "Slice" to process the model. The software will provide information about the estimated printing time and filament usage. If you are satisfied with the settings, click "Save to Disk" and save the file in .gcode format. You can save it to your USB drive or use the mounted USB drive on the printer itself.
+9. Once the file is loaded, it will appear in the editor. Use the sidebar options to resize, rotate, and position the object on the printing bed. The editor will indicate if the object is out of bounds.
+
+10. After positioning the object, access the settings in the top right corner. Configure the infill density (the degree of filling in the piece; lower values result in faster but less sturdy prints, while 20% is suitable for regular pieces), and enable supports if necessary. For further customization, click on "Custom."
+
+11. Make sure the printer profile you applied is the one you downloaded earlier called **'sideswingerX2'**
+
+11. Click on "Slice" to process the model. The software will provide information about the estimated printing time and filament usage. If you are satisfied with the settings, click "Save to Disk" and save the file in .gcode format. You can save it to your USB drive or use the mounted USB drive on the printer itself.
 </br>
 </br>
 </br>
