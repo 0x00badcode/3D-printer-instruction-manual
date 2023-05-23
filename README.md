@@ -3,8 +3,11 @@
 
 
 ```diff
--⚠️ DO NOT USE ABS,USE ONLY PLA ⚠️   
--ABS IS TOXIC WHEN USED IN OPEN PRINTERS, DO NOT USE
+- ⚠️ DO NOT USE ABS,USE ONLY PLA ⚠️ -   
+
+- ABS CAN CAUSE PHYSICAL DISCOMFORT SUCH AS DROWSINESS, EYE IRRITATION, NAUSEA AND HEADACHES, DO NOT USE -
+
+- DO NOT PRINT DURING THE NIGHT -
 ````
 
 legacy user manual: [https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf](https://c-3d.niceshops.com/upload/file/swx2-20210831_Manual.pdf)
